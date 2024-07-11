@@ -8,7 +8,7 @@ export default function App() {
     <GestureHandlerRootView style={{ flex: 1 }}>
       <BottomSheetModalProvider>
         <StatusBar style="auto" backgroundColor="#94e9f4" />
-        {/* Main  */}
+
         <Main />
       </BottomSheetModalProvider>
     </GestureHandlerRootView>
